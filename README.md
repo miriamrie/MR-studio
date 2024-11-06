@@ -1,2 +1,2 @@
-# MR-Studio
-This is to launch M/R Studio website with Bootstrap 5.
+# MR-Studio will be developing
+To launch LightWire website with Bootstrap 5.
