@@ -7,8 +7,8 @@ Creating a Form been a requirement.
 -
 
 ![homepage](https://github.com/user-attachments/assets/af347d6c-de7c-4b99-b3cb-3f06f89dc3e6)
-![about](https://github.com/user-attachments/assets/5ddab336-58e8-41db-8620-67095ee8be34)
-![form](https://github.com/user-attachments/assets/ce1ea776-de9f-494d-820e-d2ee1a025d29)
+![about](https://github.com/user-attachments/assets/0b7e133c-b202-4597-9447-70cb391220b9)
+![form](https://github.com/user-attachments/assets/45938e9e-1f02-45d1-aa82-ea53b2492e1a)
 
--
+
 Further upgrades have to be done to make the website more functional.
