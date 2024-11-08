@@ -14,4 +14,5 @@ Creating a Form been a requirement.
 
 
 Note: Further upgrades have to be done to make the website more functional.
+Including a shopping Cart.
 -
