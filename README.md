@@ -17,5 +17,5 @@ Website Pages:
 
 
 Note: Further upgrades have to be done to make the website more functional.
-Including a Shopping Cart.
+Including a shopping cart.
 -
